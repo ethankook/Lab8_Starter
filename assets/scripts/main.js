@@ -51,7 +51,7 @@ function initializeServiceWorker() {
       //listen for load event
       window.addEventListener('load', async (event) => {
         try {
-        const registration = await navigator.serviceWorker.register("/sw.js", {
+        const registration = await navigator.serviceWorker.register("/Lab8_Starter/sw.js", {
           scope: "/",
         });
         if (registration.installing) {

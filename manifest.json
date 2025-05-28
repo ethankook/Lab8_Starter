@@ -4,7 +4,7 @@
     "description": "",
     "start_url": "https://ethankook.github.io/Lab8_Starter/",
     "display": "fullscreen",
-    "background_color": "",
+    "background_color": "white",
     "theme_color": "red",
     "icons": [
       {
