@@ -1,7 +1,4 @@
 # Lab8-Starter
-<<<<<<< HEAD
+
 Ethan Kook A18092777
-Graceful degradation and service workers are related because they both have a goal of improving user experience when full resources are not available. Graceful degradation allows an app to start with full functionality but will degrade to an offline version if conditions get worse or resources are not available. Similarly, service workers allow an app to continue executing while service workers handle slow jobs of making network requests. 
-=======
 Graceful degradation and service workers are related because they both have a goal of improving user experience when full resources are not available. Graceful degradation allows an app to start with full functionality but will degrade to an offline version if conditions get worse or resources are not available. Similarly, service workers allow an app to continue executing while service workers handle the slow job of making network requests. 
->>>>>>> b2b45c68c05821b04d49df462fd126ca8522b170
