@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Ethan",
     "description": "",
-    "start_url": "",
+    "start_url": "index.html",
     "display": "fullscreen",
     "background_color": "white",
     "theme_color": "red",
