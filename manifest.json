@@ -2,10 +2,10 @@
     "name": "Lab8_Starter",
     "short_name": "Ethan",
     "description": "",
-    "start_url": "index.html",
+    "start_url": "https://ethankook.github.io/Lab8_Starter/",
     "display": "fullscreen",
     "background_color": "",
-    "theme_color": "yellow",
+    "theme_color": "red",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
